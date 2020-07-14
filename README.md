@@ -10,6 +10,40 @@ My bio contains some social/organisational links, there are a few more below.
 
 ---
 
+### I build infrastructure with:
+<p align="center">
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg"
+        alt="Powershell"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg"
+        alt="Azure"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/office_365.svg"
+        alt="Office 365"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/exchange.svg"
+        alt="Exchange"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg"
+        alt="VMware"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"
+        alt="Bash"
+        style="vertical-align: top; margin: 4px;"
+    />
+</p>
+
 ### I browse with:
 <p align="center">
     <a href="https://firefox.com">
