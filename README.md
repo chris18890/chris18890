@@ -10,6 +10,17 @@ My bio contains some social/organisational links, there are a few more below.
 
 ---
 
+### I browse with:
+<p align="center">
+    <a href="https://firefox.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/firefox.svg"
+            alt="Firefox"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+</p>
+
 ### Find me elsewhere
 
 <p align="center">
