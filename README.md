@@ -62,6 +62,13 @@ My bio contains some social/organisational links, there are a few more below.
 
 ### Find me elsewhere
 <p align="center">
+    <a href="https://about.me/chris18890">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg"
+            alt="Wesbite"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://twitter.com/chris18890">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"
