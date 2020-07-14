@@ -118,6 +118,13 @@ My bio contains some social/organisational links, there are a few more below.
             style="vertical-align: top; margin: 4px;"
         />
     </a>
+    <a href="https://activelydirect.wordpress.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg"
+            alt="Wordpress - Actively Direct"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://dev.to/chris18890">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
