@@ -111,6 +111,13 @@ My bio contains some social/organisational links, there are a few more below.
             style="vertical-align: top; margin: 4px;"
         />
     </a>
+    <a href="https://t.me/chris18890/">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg"
+            alt="Telegram"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://dev.to/chris18890">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
