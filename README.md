@@ -56,7 +56,6 @@ My bio contains some social/organisational links, there are a few more below.
 </p>
 
 ### Find me elsewhere
-
 <p align="center">
     <a href="https://twitter.com/chris18890">
         <img
