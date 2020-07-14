@@ -104,6 +104,13 @@ My bio contains some social/organisational links, there are a few more below.
             style="vertical-align: top; margin: 4px;"
         />
     </a>
+    <a href="https://www.foursquare.com/chris18890/">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/foursquare.svg"
+            alt="Foursquare"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://dev.to/chris18890">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
