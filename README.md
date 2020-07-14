@@ -42,6 +42,11 @@ My bio contains some social/organisational links, there are a few more below.
         alt="Bash"
         style="vertical-align: top; margin: 4px;"
     />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg"
+        alt="Raspberry Pi"
+        style="vertical-align: top; margin: 4px;"
+    />
 </p>
 
 ### I browse with:
