@@ -38,6 +38,11 @@ My bio contains some social/organisational links, there are a few more below.
         style="vertical-align: top; margin: 4px;"
     />
     <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg"
+        alt="DigitalOcean"
+        style="vertical-align: top; margin: 4px;"
+    />
+    <img
         src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"
         alt="Bash"
         style="vertical-align: top; margin: 4px;"
