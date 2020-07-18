@@ -52,6 +52,11 @@ My bio contains some social/organisational links, there are a few more below.
         alt="Raspberry Pi"
         style="vertical-align: top; margin: 4px;"
     />
+    <img
+        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"
+        alt="PHP"
+        style="vertical-align: top; margin: 4px;"
+    />
 </p>
 
 ### I browse with:
@@ -141,6 +146,13 @@ My bio contains some social/organisational links, there are a few more below.
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
             alt="Dev.To"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://medium.com/@chris18890">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg"
+            alt="Medium"
             style="vertical-align: top; margin: 4px;"
         />
     </a>
