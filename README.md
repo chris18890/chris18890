@@ -12,51 +12,69 @@ My bio contains some social/organisational links, there are a few more below.
 
 ### I build infrastructure with:
 <p align="center">
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg"
-        alt="Powershell"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg"
-        alt="Azure"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/office_365.svg"
-        alt="Office 365"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/exchange.svg"
-        alt="Exchange"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg"
-        alt="VMware"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg"
-        alt="DigitalOcean"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"
-        alt="Bash"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg"
-        alt="Raspberry Pi"
-        style="vertical-align: top; margin: 4px;"
-    />
-    <img
-        src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"
-        alt="PHP"
-        style="vertical-align: top; margin: 4px;"
-    />
+    <a href="https://docs.microsoft.com/powershell">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg"
+            alt="Powershell"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://azure.microsoft.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg"
+            alt="Azure"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.office.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/office_365.svg"
+            alt="Office 365"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.microsoft.com/en-gb/microsoft-365/exchange/email">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/exchange.svg"
+            alt="Exchange"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.vmware.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg"
+            alt="VMware"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://m.do.co/c/33b1e2fbc048">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg"
+            alt="DigitalOcean"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.gnu.org/software/bash">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"
+            alt="Bash"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.raspberrypi.org/">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg"
+            alt="Raspberry Pi"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://www.php.net">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"
+            alt="PHP"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
 </p>
 
 ### I browse with:
