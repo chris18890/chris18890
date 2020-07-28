@@ -12,6 +12,20 @@ My bio contains some social/organisational links, there are a few more below.
 
 ### I build infrastructure with:
 <p align="center">
+    <a href="https://github.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/github.svg"
+            alt="Github"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
+    <a href="https://git-scm.com">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/git.svg"
+            alt="Git"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://docs.microsoft.com/powershell">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg"
