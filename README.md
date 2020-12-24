@@ -206,4 +206,6 @@ My bio contains some social/organisational links, there are a few more below.
 
 ### Github Stats
 
-<img align="left" alt="Chris' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chris18890&show_icons=true&count_private=true&show_owner=true" />
+After reading this [medium.com article](https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b) I've added a badge to show my github stats, find out how to do so here - https://github.com/anuraghazra/github-readme-stats
+
+<img align="left" alt="Chris' GitHub Stats" src="https://github-readme-stats-chris18890.vercel.app/api?username=chris18890&show_icons=true&count_private=true&show_owner=true" />
