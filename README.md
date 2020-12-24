@@ -203,3 +203,7 @@ My bio contains some social/organisational links, there are a few more below.
         />
     </a>
 </p>
+
+### Github Stats
+
+<img align="left" alt="Chris' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chris18890&show_icons=true&count_private=true&show_owner=true" />
