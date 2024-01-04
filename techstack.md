@@ -3,8 +3,6 @@
 ## Tech Stack
 chris18890/chris18890 is built on the following main stack:
 
-
-
 Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet without images End ---&gt;
@@ -12,8 +10,6 @@ Full tech stack [here](/techstack.md)
 &lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 chris18890/chris18890 is built on the following main stack:
-
-
 
 Full tech stack [here](/techstack.md)
 
