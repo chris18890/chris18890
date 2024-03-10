@@ -146,6 +146,13 @@ My bio contains some social/organisational links, there are a few more below.
             style="vertical-align: top; margin: 4px;"
         />
     </a>
+    <a rel="me" href="https://mastodon.social/@chris18890">
+        <img
+            src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/mastodon.svg"
+            alt="Mastoodon"
+            style="vertical-align: top; margin: 4px;"
+        />
+    </a>
     <a href="https://stackoverflow.com/users/2079693/chris-murray">
         <img
             src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg"
